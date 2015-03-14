@@ -1,0 +1,2 @@
+2015-03-14 12:48:55 INFO  ThreadPooledServer:96 - Your request has been done successfully! Your request: {"amount":"3,000","id":"33227781","type":"deposit"}  new initial balance: 4000
+2015-03-14 12:48:55 INFO  ThreadPooledServer:96 - Your request has been done successfully! Your request: {"amount":"4,000","id":"33227781","type":"deposit"}  new initial balance: 8000
